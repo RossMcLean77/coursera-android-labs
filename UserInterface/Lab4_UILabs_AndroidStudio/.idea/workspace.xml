@@ -3,8 +3,8 @@
   <component name="AndroidConfiguredLogFilters">
     <filters>
       <filter>
-        <option name="name" value="app: course.labs.activitylab" />
-        <option name="packageNamePattern" value="course.labs.activitylab" />
+        <option name="name" value="app: course.labs.todomanager" />
+        <option name="packageNamePattern" value="course.labs.todomanager" />
       </filter>
     </filters>
   </component>
@@ -14,11 +14,11 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: course.labs.activitylab" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: course.labs.todomanager" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d402277e-bb99-4511-a5cf-0f21c316c166" name="Default" comment="" />
-    <ignored path="Lab2_ActivityLab.iws" />
+    <list default="true" id="46d5f38f-4892-4a30-9239-9e19b3826d47" name="Default" comment="" />
+    <ignored path="Lab4_UILabs.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,97 +35,108 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Lab2_ActivityLab" />
+    <favorites_list name="Lab4_UILabs" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ActivityOne.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/activitylab/ActivityOne.java">
+      <file leaf-file-name="AddToDoActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/AddToDoActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="139" max-vertical-offset="2737">
-              <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4471">
+              <caret line="146" column="28" selection-start-line="146" selection-start-column="28" selection-end-line="146" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Activity.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/app/Activity.class">
+      <file leaf-file-name="View.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/view/View.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="7548">
-              <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="19686">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CompoundButton.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/widget/CompoundButton.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1003">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToDoListAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoListAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1904" max-vertical-offset="2652">
+              <caret line="112" column="41" selection-start-line="112" selection-start-column="41" selection-end-line="112" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test4_ResetTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/todomanager/tests/Test4_ResetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1598" max-vertical-offset="2091">
+              <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test3_CancelTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/todomanager/tests/Test3_CancelTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2278">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_todo.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/add_todo.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="23.296297" vertical-offset="1683" max-vertical-offset="3162">
+              <caret line="62" column="53" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToDoItem.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1683">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToDoManagerActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoManagerActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.0967742" vertical-offset="1275" max-vertical-offset="3349">
+              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75" vertical-offset="153" max-vertical-offset="612">
-              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test1_StartActivityOneTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test1_StartActivityOneTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="1037">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test2_DoubleRotateActivityOneTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test2_DoubleRotateActivityOneTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="1513">
-              <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test2_DoubleRotateActivtyOneTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test2_DoubleRotateActivtyOneTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="397" max-vertical-offset="1411">
-              <caret line="65" column="37" selection-start-line="7" selection-start-column="0" selection-end-line="65" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test4_DoubleRotateActivityTwoTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test4_DoubleRotateActivityTwoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1785">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ActivityTwo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/activitylab/ActivityTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="2635">
-              <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Instrumentation.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/app/Instrumentation.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1972" max-vertical-offset="2737">
-              <caret line="116" column="16" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -149,7 +160,7 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="Lab2_ActivityLabAndroidStudio" />
+              <option name="name" value="Lab4_UILabs_AndroidStudio" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
@@ -160,7 +171,7 @@
                 <option name="path" value="$PROJECT_DIR$/app" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="Lab2_ActivityLabAndroidStudio" />
+                <option name="name" value="Lab4_UILabs_AndroidStudio" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -623,7 +634,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4286513856869" />
+        <entry key="$PROJECT_DIR$" value="4287548362725" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -866,17 +877,18 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/course/labs/activitylab/ActivityOne.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/course/labs/activitylab/ActivityTwo.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoManagerActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/course/labs/todomanager/tests/Test4_ResetTest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/AddToDoActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoListAdapter.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="489" />
-    <option name="y" value="398" />
-    <option name="width" value="1200" />
-    <option name="height" value="716" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -904,24 +916,18 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lab2_ActivityLab" />
+              <option name="myItemId" value="Lab4_UILabs" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lab2_ActivityLab" />
+              <option name="myItemId" value="Lab4_UILabs" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -935,7 +941,25 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lab2_ActivityLab" />
+              <option name="myItemId" value="Lab4_UILabs" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lab4_UILabs" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -953,7 +977,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lab2_ActivityLab" />
+              <option name="myItemId" value="Lab4_UILabs" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -965,13 +989,13 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="activitylab" />
+              <option name="myItemId" value="todomanager" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lab2_ActivityLab" />
+              <option name="myItemId" value="Lab4_UILabs" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -985,6 +1009,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -995,18 +1021,24 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="b61f40c5" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Galaxy_Nexus_API_18" />
-    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Fragments/Lab3c_FragmentsLab_AndroidStudio" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Android Application.app">
-    <configuration default="false" name="ActivityOne" type="AndroidRunConfigurationType" factoryName="Android Application" temporary="true">
+  <component name="RecentsManager">
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Tests.Tests in 'course.labs.todomanager.tests'">
+    <configuration default="false" name="Tests in 'course.labs.todomanager.tests'" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
       <module name="app" />
-      <option name="ACTIVITY_CLASS" value="course.labs.activitylab.ActivityOne" />
-      <option name="MODE" value="specific_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
+      <option name="TESTING_TYPE" value="1" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="android.test.InstrumentationTestRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="course.labs.todomanager.tests" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
@@ -1023,12 +1055,35 @@
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Test1_StartActivityO..." type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Test4_ResetTest" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <option name="TESTING_TYPE" value="2" />
       <option name="INSTRUMENTATION_RUNNER_CLASS" value="android.test.InstrumentationTestRunner" />
       <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="course.labs.activitylab.tests.Test1_StartActivityOneTest" />
+      <option name="CLASS_NAME" value="course.labs.todomanager.tests.Test4_ResetTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test3_CancelTest" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="android.test.InstrumentationTestRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="course.labs.todomanager.tests.Test3_CancelTest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
@@ -1044,51 +1099,6 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <RunnerSettings RunnerId="AndroidDebugRunner" />
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Tests in 'course.labs.activitylab.tests'" type="AndroidTestRunConfigurationType" factoryName="Android Tests" temporary="true" nameIsGenerated="true">
-      <module name="app" />
-      <option name="TESTING_TYPE" value="1" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="android.test.InstrumentationTestRunner" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="course.labs.activitylab.tests" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <RunnerSettings RunnerId="AndroidDebugRunner" />
-      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Test5_CloseActivityTwoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="app" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="course.labs.activitylab.tests" />
-      <option name="MAIN_CLASS_NAME" value="course.labs.activitylab.tests.Test5_CloseActivityTwoTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -1208,7 +1218,7 @@
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
       <option name="COMMAND_LINE" value="" />
@@ -1223,19 +1233,17 @@
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
-    <list size="5">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
-      <item index="1" class="java.lang.String" itemvalue="Android Application.ActivityOne" />
-      <item index="2" class="java.lang.String" itemvalue="Android Tests.Test1_StartActivityO..." />
-      <item index="3" class="java.lang.String" itemvalue="Android Tests.Tests in 'course.labs.activitylab.tests'" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Test5_CloseActivityTwoTest" />
+      <item index="1" class="java.lang.String" itemvalue="Android Tests.Tests in 'course.labs.todomanager.tests'" />
+      <item index="2" class="java.lang.String" itemvalue="Android Tests.Test4_ResetTest" />
+      <item index="3" class="java.lang.String" itemvalue="Android Tests.Test3_CancelTest" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Android Tests.Tests in 'course.labs.activitylab.tests'" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Test5_CloseActivityTwoTest" />
-        <item index="2" class="java.lang.String" itemvalue="Android Tests.Test1_StartActivityO..." />
-        <item index="3" class="java.lang.String" itemvalue="Android Application.ActivityOne" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Android Tests.Tests in 'course.labs.todomanager.tests'" />
+        <item index="1" class="java.lang.String" itemvalue="Android Tests.Test4_ResetTest" />
+        <item index="2" class="java.lang.String" itemvalue="Android Tests.Test3_CancelTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
@@ -1256,14 +1264,19 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d402277e-bb99-4511-a5cf-0f21c316c166" name="Default" comment="" />
-      <created>1428837952175</created>
-      <updated>1428837952175</updated>
+      <changelist id="46d5f38f-4892-4a30-9239-9e19b3826d47" name="Default" comment="" />
+      <created>1429182787456</created>
+      <updated>1429182787456</updated>
     </task>
     <servers />
   </component>
@@ -1288,34 +1301,36 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="489" y="398" width="1200" height="716" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14605543" sideWeight="0.5008157" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21470588" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3990196" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.58035713" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.07569297" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3245098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4642857" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21470588" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3245098" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4008772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14605543" sideWeight="0.49918434" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3245098" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5019608" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3990196" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14605543" sideWeight="0.5007257" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1732" height="976" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1340,172 +1355,180 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/course/labs/activitylab/ActivityTwo.java</url>
-          <line>36</line>
+          <url>jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/widget/CompoundButton.class</url>
+          <line>50</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/course/labs/activitylab/ActivityTwo.java</url>
-          <line>54</line>
+          <url>file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/todomanager/tests/Test4_ResetTest.java</url>
+          <line>96</line>
           <properties />
-          <option name="timeStamp" value="19" />
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/course/labs/activitylab/ActivityTwo.java</url>
-          <line>79</line>
+          <url>file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/AddToDoActivity.java</url>
+          <line>136</line>
           <properties />
-          <option name="timeStamp" value="21" />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoListAdapter.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoListAdapter.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoListAdapter.java</url>
+          <line>125</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoListAdapter.java</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="22" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="32" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/activitylab/ActivityOne.java">
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/widget/CompoundButton.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2737">
-          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1003">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/app/Activity.class">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoListAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="7548">
-          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1904" max-vertical-offset="2652">
+          <caret line="112" column="41" selection-start-line="112" selection-start-column="41" selection-end-line="112" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test1_StartActivityOneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="1037">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test2_DoubleRotateActivityOneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="1513">
-          <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test2_DoubleRotateActivtyOneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="397" max-vertical-offset="1411">
-          <caret line="65" column="37" selection-start-line="7" selection-start-column="0" selection-end-line="65" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test4_DoubleRotateActivityTwoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1785">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/activitylab/ActivityTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="2635">
-          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/app/Instrumentation.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1972" max-vertical-offset="2737">
-          <caret line="116" column="16" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/activitylab/ActivityOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2737">
-          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/app/Activity.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="7548">
-          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/widget/BaseAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="612">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test1_StartActivityOneTest.java">
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/todomanager/tests/Test4_ResetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="1037">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1598" max-vertical-offset="2091">
+          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test2_DoubleRotateActivityOneTest.java">
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/todomanager/tests/Test3_CancelTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="1513">
-          <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="989" max-vertical-offset="2278">
+          <caret line="79" column="80" selection-start-line="79" selection-start-column="80" selection-end-line="79" selection-end-column="80" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test2_DoubleRotateActivtyOneTest.java">
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/os/Handler.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="563" max-vertical-offset="1411">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test4_DoubleRotateActivityTwoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1785">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1428">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/activitylab/ActivityTwo.java">
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/os/Looper.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="2635">
-          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="646">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/app/Instrumentation.class">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoManagerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1972" max-vertical-offset="2737">
-          <caret line="116" column="16" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1955" max-vertical-offset="3791">
+          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/AddToDoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5134">
+          <caret line="92" column="19" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1989" max-vertical-offset="2618">
+          <caret line="117" column="77" selection-start-line="117" selection-start-column="77" selection-end-line="117" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/widget/CompoundButton.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="1003">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/todo_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="1326">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoManagerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="836" max-vertical-offset="3349">
+          <caret line="85" column="57" selection-start-line="85" selection-start-column="57" selection-end-line="85" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/app/Activity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1751" max-vertical-offset="7548">
+          <caret line="103" column="21" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/os/Handler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1428">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/os/Looper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="646">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -1517,86 +1540,263 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/activitylab/ActivityOne.java">
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/app/ListActivity.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="139" max-vertical-offset="2737">
-          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
-          <folding />
+        <state vertical-scroll-proportion="0.6219512" vertical-offset="0" max-vertical-offset="656">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_one.xml">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/footer_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27419356" vertical-offset="0" max-vertical-offset="558">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="656">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="android-designer">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="656">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/widget/HeaderViewListAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="261" max-vertical-offset="833">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/widget/ListView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/widget/AbsListView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5236">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/database/DataSetObservable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2905983" vertical-offset="0" max-vertical-offset="585">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/todo_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="1326">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
         <state />
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/test/InstrumentationTestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/test/AndroidTestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="213" max-vertical-offset="901">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/test/ActivityInstrumentationTestCase2.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6974359" vertical-offset="0" max-vertical-offset="585">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.3.1/a3247fdcf3cbb9364559ef919db9c8cdb8120499/robotium-solo-5.3.1-sources.jar!/com/robotium/solo/Checker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="502" max-vertical-offset="2108">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.3.1/a3247fdcf3cbb9364559ef919db9c8cdb8120499/robotium-solo-5.3.1-sources.jar!/com/robotium/solo/Timeout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="571" max-vertical-offset="1156">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.3.1/a3247fdcf3cbb9364559ef919db9c8cdb8120499/robotium-solo-5.3.1-sources.jar!/com/robotium/solo/Waiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9308" max-vertical-offset="13022">
+          <caret line="573" column="0" selection-start-line="573" selection-start-column="0" selection-end-line="573" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/app/Activity.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="899" max-vertical-offset="7531">
-          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="2700" max-vertical-offset="7531">
+          <caret line="171" column="29" selection-start-line="171" selection-start-column="29" selection-end-line="171" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/app/Instrumentation.class">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.3.1/a3247fdcf3cbb9364559ef919db9c8cdb8120499/robotium-solo-5.3.1-sources.jar!/com/robotium/solo/Searcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1741" max-vertical-offset="2720">
-          <caret line="116" column="16" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test4_DoubleRotateActivityTwoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1598">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/activitylab/ActivityTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="863" max-vertical-offset="2516">
+        <state vertical-scroll-proportion="0.0" vertical-offset="927" max-vertical-offset="5644">
           <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.3.1/a3247fdcf3cbb9364559ef919db9c8cdb8120499/robotium-solo-5.3.1-sources.jar!/com/robotium/solo/Sleeper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.3.1/a3247fdcf3cbb9364559ef919db9c8cdb8120499/robotium-solo-5.3.1-sources.jar!/com/robotium/solo/Solo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="38106" max-vertical-offset="45696">
+          <caret line="2394" column="0" selection-start-line="2394" selection-start-column="0" selection-end-line="2394" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test1_StartActivityOneTest.java">
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/test/InstrumentationTestCase.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="387" max-vertical-offset="867">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/widget/RadioGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="111" max-vertical-offset="969">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/os/Handler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="77" max-vertical-offset="1411">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test2_DoubleRotateActivityOneTest.java">
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/os/Looper.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="659" max-vertical-offset="1343">
-          <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/activitylab/tests/Test2_DoubleRotateActivtyOneTest.java">
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/widget/BaseAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="397" max-vertical-offset="1411">
-          <caret line="65" column="37" selection-start-line="7" selection-start-column="0" selection-end-line="65" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="595">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/widget/CompoundButton.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="94" max-vertical-offset="986">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Android/Android/sdk/platforms/android-18/android.jar!/android/view/View.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="19669">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1753" max-vertical-offset="2414">
+          <caret line="112" column="41" selection-start-line="112" selection-start-column="41" selection-end-line="112" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/todomanager/tests/Test4_ResetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1065" max-vertical-offset="1955">
+          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/course/labs/todomanager/tests/Test3_CancelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2278">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/add_todo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="23.296297" vertical-offset="1683" max-vertical-offset="3162">
+          <caret line="62" column="53" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1683">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75" vertical-offset="153" max-vertical-offset="612">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/AddToDoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4471">
+          <caret line="146" column="28" selection-start-line="146" selection-start-column="28" selection-end-line="146" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/course/labs/todomanager/ToDoManagerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0967742" vertical-offset="1275" max-vertical-offset="3349">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
           <folding />
         </state>
       </provider>
