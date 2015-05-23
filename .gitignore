@@ -33,3 +33,5 @@ proguard/
 
 # Emacs backup files
 *.*~
+Fragments/FragmentsLabSubmit.zip
+Fragments/FragmentsLabSubmit/FragmentsLab/MainActivity.java
