@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ModernArtUI</string>
+    <string name="title_activity_main">Modern Art UI</string>
+    <string name="action_moreinfo">More Info</string>
+    <string name="dialog_moreinfo_inspired">Inspired by the works of Roy Lichtenstein</string>
+    <string name="dialog_moreinfo_moma">Visit MOMA</string>
+    <string name="dialog_moreinfo_notnow">Not Now</string>
+    <string name="dialog_moreinfo_lichtenstein">Roy Fox Lichtenstein was an American pop artist. During the 1960s, along with Andy Warhol, Jasper Johns, and James Rosenquist among others, he became a leading figure in the new art movement.</string>
+    <string name="dialog_moreinfo_title">Inspired by the works of Roy Lichtenstein</string>
+
+</resources>
